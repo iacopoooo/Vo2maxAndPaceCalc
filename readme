@@ -1,0 +1,11 @@
+ITA: Vo2maxAndPaceCalc è una semplice applicazione ios con duplice funzionalità, la prima inserendo i dati con duplice funzionalità, la prima inserendo i dati di una corsa (km percorsi e tempo impiegato)mostra il VO2MAX dell'atleta. 
+E' obbligatorio inserire tutti i campi; se ad esempio le ore sono zero va indicato "0", altrimenti verrà mostrato un alert che spiega di inserire tutti i campi.
+La seconda aiuta a fare le conversioni: ad esmpio percorri 1200 metri in 5 minuti, premendo su cal mostra il ritmo e così per tutti gli altri campi.
+E' importante inserire solo due campi per ottenere il terzo, indicando tutti e tre i campi verrà generato un errroe.
+Per ulteriori info: ico_vh@yahoo.it
+
+ENG: Vo2maxAndPaceCalc is a simple iOS application with dual functionality, the first inserting the data with dual functionality, the first inserting the data of a run (km traveled and time taken) shows the athlete's VO2MAX.
+It is mandatory to enter all fields; for example, if the hours are zero, "0" must be indicated, otherwise an alert will be shown instructing you to enter all the fields.
+The second helps to make conversions: for example you cover 1200 meters in 5 minutes, pressing on cal shows the pace and the same for all the other fields.
+It is important to enter only two fields to obtain the third, indicating all three fields will generate an error.
+More info: ico_vh@yahoo.it
